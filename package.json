@@ -1,0 +1,16 @@
+{
+    "name": "pouchdb-search-local",
+    "version": "0.0.1",
+    "description": "Pouchdb plugin to use with a local installation of couchdb-lucene",
+    "main": "pouchdb.search-local.js",
+    "keywords": [
+        "pouchdb"
+    ],
+    "author": "James Homer",
+    "license": "MIT",
+    "repository": "git://github.com/homerjam/pouchdb-search-local.git",
+    "dependencies": {},
+    "devDependencies": {
+        "pouchdb": ">=2.0.0"
+    }
+}
